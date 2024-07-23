@@ -17,3 +17,4 @@ need to use JAVAX bundle and call the respective package for the purpose. How th
 ## JSR
 - Java Specification Request: Formal request to java community Process (JCP) for sugested changes into the APIs e.g. CDI 1 -> CDI 2
 - It is used to group APIs into silos. 
+- Here you can access all the JSRs (https://jcp.org/en/home/index)
