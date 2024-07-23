@@ -1,5 +1,5 @@
 # JAVA EE
--  `![JAVA EE](assets/java.png)`
+-  `![JAVA EE](./assets/java.png)`
 ## Description
 Project to learn how Java EE works. 
 
