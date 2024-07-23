@@ -1,5 +1,5 @@
 # JAVA EE
--  `![JAVA EE](assets/java.webp)`
+-  `![JAVA EE](assets/java.png)`
 ## Description
 Project to learn how Java EE works. 
 
