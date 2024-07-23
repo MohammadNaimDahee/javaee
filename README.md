@@ -1,10 +1,12 @@
 # JAVA EE
--  `![JAVA EE](./assets/java.png)`
+## Screenshot
+![Project Screenshot](assets/java.png)
 ## Description
 Project to learn how Java EE works. 
 
 ## Table of Contents
 - [JAVA EE](#java-ee)
+  - [Screenshot](#screenshot)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [JavaEE](#javaee)
